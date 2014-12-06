@@ -1,6 +1,6 @@
 {
     "name": "kaazing-client-javascript-demo",
-    "version": "5.0.0-11",
+    "version": "5.0.0-12",
     "description": "Kaazing WebSocket Javascript Demo",
     "repository": {
         "type": "git",
